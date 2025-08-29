@@ -8,7 +8,7 @@ I enjoy learning new technologies, solving challenging problems, and contributin
 val alexandre = Developer(
     fullName = "Alexandre Castillo",
     languages = listOf("Kotlin", "Java", "JS"),
-    tech = listOf("Android", "Jetpack Compose"),
+    tech = listOf("Android", "Jetpack Compose", "Jetpack Components Architecture"),
     databases = listOf("Mongo", "SQL Server"),
     learning = listOf("KMP", "CMP"),
     hobbies = listOf("Football", "Paddle", "Travel")
