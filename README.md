@@ -16,7 +16,6 @@ val alexandre = Developer(
 ```
 
 ## 📫 Contact & Links
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandrecastillo) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/alexandrecastillo) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre.castillo.labs@gmail.com) 
-[![Play Store](https://img.shields.io/badge/-Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Alexandre+Castillo)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandre-castillo-gutierrez/) 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alexandre.castillo.dev@gmail.com) 
+[![Play Store](https://img.shields.io/badge/-Play%20Store-34A853?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=7254071524059994465)
