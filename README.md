@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Alexandre Castillo
 
 ## 👨‍💻 About Me
-I'm an Android developer with 5+ years of experience building and scaling mobile applications. I work primarily with Kotlin, Jetpack Compose, and Clean Architecture, focusing on creating maintainable and high-performance apps.  
+I'm an Android developer with 7+ years of experience building and scaling mobile applications. I work primarily with Kotlin, Jetpack Compose, and Clean Architecture, focusing on creating maintainable and high-performance apps.  
 I enjoy learning new technologies, solving challenging problems, and contributing to projects that make an impact.
 
 ```kotlin
